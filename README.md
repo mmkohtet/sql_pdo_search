@@ -1,1 +1,1 @@
-# sql lesson search for database
+# sql lesson search from database
