@@ -21,3 +21,5 @@ class index
 
 $obj=new index();
 $obj->search("anm");
+
+?>
